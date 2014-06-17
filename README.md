@@ -102,7 +102,7 @@ Circular progress View button inspired by [FFCircularProgressView](https://githu
     
 
 ##Demo
-    Please download and run the [project](https://github.com/Vyshakh-K/TH-ProgressButton) to view demo.
+Please download and run the [project](https://github.com/torryharris/TH-ProgressButton) to view demo.
 
 ##License
 ProgressButton is licensed under the terms of the MIT License. Please see the [License](https://github.com/Vyshakh-K/TH-ProgressButton/blob/master/LICENSE) file for full details.
